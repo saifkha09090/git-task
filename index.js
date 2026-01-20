@@ -1,3 +1,3 @@
 let arr = [
-    { name: "hassan" }
+    { name: "hams" }
 ]
